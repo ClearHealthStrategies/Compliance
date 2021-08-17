@@ -1,3 +1,3 @@
 # ClearHealth Strategies Policies
 
-* [Access](/access)
+* [Access](https://github.com/ClearHealthStrategies/Compliance/access)
