@@ -2,7 +2,6 @@
 
 * [Access](https://clearhealthstrategies.github.io/Compliance/access)
 * [Asset Inventory Management](https://clearhealthstrategies.github.io/Compliance/asset-mgmt)
-* [Access](https://clearhealthstrategies.github.io/Compliance/access)
 * [Business Continuity and Disaster Recovery](https://clearhealthstrategies.github.io/Compliance/bcdr)
 * [Breach Investigation and Notification](https://clearhealthstrategies.github.io/Compliance/breach)
 * [Configuration and Change Management](https://clearhealthstrategies.github.io/Compliance/ccm)
