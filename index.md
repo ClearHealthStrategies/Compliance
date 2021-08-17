@@ -1,3 +1,3 @@
 # ClearHealth Strategies Policies
 
-* [Access](access.md)
+* [Access](access)
