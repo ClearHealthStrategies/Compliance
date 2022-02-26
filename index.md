@@ -23,3 +23,5 @@
 * [Breach Investigation and Notification](https://clearhealthstrategies.github.io/Compliance/breach)
 * [Third Party Security, Vendor Risk Management and Systems/Services Acquisition](https://clearhealthstrategies.github.io/Compliance/vendor)
 * [Privacy and Consent](https://clearhealthstrategies.github.io/Compliance/privacy)
+
+* [Privacy Policy](https://clearhealthstrategies.github.io/Compliance/PrivacyPolicy)
