@@ -1,8 +1,7 @@
 # HIPAA PRIVACY POLICIES FOR CLEAR HEALTH STRATEGIES, LLC
 LAST UPDATED: May 21, 2020
-HIPAA Privacy Policies Table of Contents 
 
-HIPAA Privacy Policies Introduction 
+## HIPAA Privacy Policies Introduction 
 INTRODUCTION 
 The purpose of these HIPAA Privacy Policies (hereinafter referenced as the “Privacy Policies”) is  to protect the confidentiality, privacy, and security of Protected Health Information (“PHI”) that  the Clear Health Strategies, LLC (“Company”) uses, maintains, or discloses pursuant to the Health  Insurance Portability and Accountability Act of 1996, any amendments thereto, and all rules and  regulations promulgated thereunder, including the “Privacy Rule” at 45 CFR Part 160, 162, and  164, as amended (collectively, “HIPAA”). 
 Company is considered a Business Associate under HIPAA because it creates, receives, maintains,  or transmits PHI on behalf of health plans (each a “Covered Entity” and collectively, the “Covered  Entities”), as part of services it provides.  
@@ -13,7 +12,7 @@ If not otherwise specified, Privacy Officer and his or her designee(s) (the “P
 Please contact Privacy Officer if you have any questions about these Privacy Policies. ***
 
 
-HIPAA Privacy Policies Defined Terms 
+## HIPAA Privacy Policies Defined Terms 
 DEFINED TERMS 
 All terms used but not otherwise defined in these Privacy Policies shall have the same  meaning as those terms are defined under HIPAA. The below definitions apply only to use  of the defined terms in these Privacy Policies and not to any other policies of Company. 
 “Breach” means an unauthorized acquisition, access, use, or disclosure of Unsecured PHI that  compromises the security or privacy of such information. An unauthorized acquisition, access,  use, or disclosure of Unsecured PHI is presumed to be a reportable Breach unless, after conducting  a risk assessment, Company has demonstrated that there is a low probability that PHI has been  compromised. The term “Breach” does not include: 
@@ -26,7 +25,7 @@ C. A disclosure of PHI where Company or Business Associate has a good-faith beli
 “De-Identified Information” means health information that does not identify an Individual and is  not subject to HIPAA or these Privacy Policies insofar as it comports with 6.1—Creation, Use,  and Disclosures of De-Identified Information. 
 “Designated Record Set” means the medical and billing records maintained by Company that  includes (a) the medical records and billing records about Individuals maintained by or for  Company; or (b) used, in whole or in part, by or for Company to make decisions about Individuals. 
 
-HIPAA Privacy Policies Defined Terms 
+## HIPAA Privacy Policies Defined Terms 
 For purposes of this definition, the term “record” means any item, collection, or grouping of  information that includes PHI and is maintained, collected, used, or disseminated by or for  Company. 
 “Financial Remuneration” or “Remuneration” means direct or indirect payment from or on behalf  of a third party whose product or service is being described. Direct or indirect payment does not  include any payment for treatment of an Individual. Financial Remuneration does not include  nonfinancial benefits, such as in-kind benefits, provided to Company in exchange for making a  communication about a product or service.  
 “Individual” means a person who is receiving services from Company and whose PHI is protected  by these Privacy Policies. A Personal Representative of an Individual must be treated the same as  an Individual with respect to the Individual’s PHI.  
@@ -45,13 +44,6 @@ HIPAA Privacy Policies Defined Terms
 “Subcontractor Business Associate Agreement” or “Sub-BAA” means a BAA which sets forth  requirements to ensure that the Subcontractor will appropriately use and safeguard PHI. 
 “Unsecured PHI” means PHI that is not encrypted and rendered unusable, unreadable, or  indecipherable to unauthorized individuals through the use of a technology or methodology  specified by the Secretary. 
 “Workforce” or “Workforce Member” means employees, volunteers, trainees, and other persons  whose conduct, in the performance of work for Company is under the direct control of Company,  whether or not they are paid directly by Company.
-
-
-
-
-
-
-
 
 
 1.1 
