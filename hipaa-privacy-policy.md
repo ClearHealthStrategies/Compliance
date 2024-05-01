@@ -535,92 +535,6 @@ Recorded
 in Breach  
 Notification  Log (Y/N)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SAMPLE – PROTECTED HEALTH INFORMATION DISCLOSURE LOG 
 44 
 
@@ -832,46 +746,6 @@ CLEAR HEALTH STRATEGIES, LLC
 By: ______________________________________ 
 Title: _____________________________________
 BUSINESS ASSOCIATE AGREEMENT 64 
-
-
-
-
-
-
-
-
-Policy Title
-HIPAA Privacy Policies
-Effective Date
-May 21, 2020
-Department
-Human Resources
-Approval Authority
-General Counsel
-Review Date(s)
-Revision Date(s)
- Revision Note
-Approved By
-6.30.23
-
-
-
-
- Amy Reagan, COO & General Counsel 
-4.30.24
-
-
-
-
-Amy Reagan, COO & General Counsel 
-
-
-
-
-
-
-
-
 
 
 
