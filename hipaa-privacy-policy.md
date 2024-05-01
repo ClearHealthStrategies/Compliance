@@ -1,57 +1,6 @@
-HIPAA PRIVACY POLICIES FOR 
+# HIPAA PRIVACY POLICIES FOR 
 CLEAR HEALTH STRATEGIES, LLC LAST UPDATED: May 21, 2020
 HIPAA Privacy Policies Table of Contents 
-INTRODUCTION..........................................................................................................................1 DEFINED TERMS.........................................................................................................................2 
-SECTION 1: PRIVACY OFFICER AND ACCESS CONTROLS ...............................................5 
-1.1 Privacy Officer Designation and Duties.......................................................................5 
-1.2 Authorized Access Control...........................................................................................7 
-SECTION 2: GENERAL USES AND DISCLOSURES ...............................................................8 
-2.1 General Uses and Disclosures of PHI ..........................................................................8 
-2.2 Incidental Disclosures of PHI.......................................................................................9 
-2.3 Minimum Necessary Standard ....................................................................................10 
-2.4 Sensitive Information ..................................................................................................11 
-SECTION 3: USES AND DISCLOSURES FOR WHICH AUTHORIZATION IS NOT  REQUIRED....................................................................................................................................12 
-3.1 Uses and Disclosures by Covered Entities Not Requiring Authorization....................12 
-3.2 Disclosures to Personal Representatives.......................................................................14 
-3.3 Uses and Disclosures Required by Law .......................................................................15
- 3.4 Uses and Disclosures by Whistleblowers....................................................................16 
-SECTION 4: USES AND DISCLOSURES REQUIRING AUTHORIZATION..........................17
- 4.1 Uses and Disclosures for Marketing...........................................................................17 
-4.2 Sale of PHI ..................................................................................................................18 
-SECTION 5: INDIVIDUAL RIGHTS...........................................................................................19
- 5.1 Right to Access PHI ...................................................................................................19 
-5.2 Right to Amend PHI.....................................................................................................20 
-5.3 Right to an Accounting of Disclosures.........................................................................21 
-5.4 Documentation of Disclosures of PHI..........................................................................23 
-5.5 Right to Request Restrictions.......................................................................................24 
-5.6 Right to Request Alternative Confidential Communications.......................................25 
-5.7 Revocation of Authorization .......................................................................................26 
-5.8 Waiver of Rights..........................................................................................................27 
-SECTION 6: DE-IDENTIFICATION AND LIMITED DATA SETS..........................................28
- 6.1 Creation, Use, and Disclosures of De-Identified Information...................................28 
-6.2 Disclosures of a Limited Data Set..............................................................................30 
-SECTION 7: VERIFICATION, SAFEGUARDS, AND TRANSMISSION...............................31
- 7.1 Verification Requirements.........................................................................................31 
-7.2 Safeguards to Protect the Privacy of PHI...................................................................32 
-7.3 Transmission of PHI...................................................................................................33
-i 
-HIPAA Privacy Policies 							Table of Contents 
-7.4 Use Of Mobile Devices...................................................................................................34
-7.5 Subcontractors.................................................................................................................35 Disclosures to Subcontractors ..............................................................................................35 
-Company as a Business Associate.........................................................................................35 
-SECTION 8: TRAINING AND SANCTIONS.....................................................................36 
-8.1 Training Workforce Members.........................................................................................36 
-8.2 Sanctions.........................................................................................................................37 
-SECTION 9: COMPLAINTS AND INVESTIGATION.....................................................38 
-9.1 Mitigation of Impermissible Uses or Disclosures..........................................................38
- 9.2 Investigation of Complaints .........................................................................................39
- 9.3 Refraining from Intimidating or Retaliatory Acts Against Individuals.........................40 SECTION 10: MAINTENANCE OF DOCUMENTATION...............................................41 
-10.1 Maintenance of Documentation ...................................................................................41 EXHIBIT A PRIVACY OFFICER CONTACT INFORMATION ......................................42 EXHIBIT B SECURITY OFFICER CONTACT INFORMATION.....................................43 
-EXHIBIT C SAMPLE – PROTECTED HEALTH INFORMATION DISCLOSURE 
-LOG……………………………………………………………………..…..44 
-EXHIBIT D SUBCONTRACTOR AGREEMENT...............................................................45 EXHIBIT E BUSINESS ASSOCIATE AGREEMENT .......................................................55
-
-
 
 HIPAA Privacy Policies Introduction 
 INTRODUCTION 
@@ -62,12 +11,6 @@ These Privacy Policies are subject in all respects to additional or more restric
 Responsibilities 
 If not otherwise specified, Privacy Officer and his or her designee(s) (the “Privacy Officer”) is  responsible for implementing the Privacy Policies contained herein. 
 Please contact Privacy Officer if you have any questions about these Privacy Policies. ***
-
-
-
-
-
-
 
 
 HIPAA Privacy Policies Defined Terms 
