@@ -23,6 +23,6 @@
 * [Breach Investigation and Notification](https://clearhealthstrategies.github.io/Compliance/breach)
 * [Third Party Security, Vendor Risk Management and Systems/Services Acquisition](https://clearhealthstrategies.github.io/Compliance/vendor)
 * [Privacy and Consent](https://clearhealthstrategies.github.io/Compliance/privacy)
-* [CHS HIPAA Breach Policies](https://clearhealthstrategies.github.io/Compliance/hipaa-breach-policies)
+* [CHS HIPAA Privacy Policies](https://clearhealthstrategies.github.io/Compliance/hipaa-privacy-policies)
 
 * [Privacy Policy](https://clearhealthstrategies.github.io/Compliance/PrivacyPolicy)
