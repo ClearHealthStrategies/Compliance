@@ -7,5 +7,15 @@
     "source.fixAll.esbenp.prettier-vscode": "explicit"
   },
   "prettier.proseWrap": "always",
-  "cSpell.words": ["ARRA", "Clin", "HITECH", "Optum"]
+  "cSpell.words": [
+    "ARRA",
+    "Clin",
+    "HITECH",
+    "Majeure",
+    "Optum",
+    "Unpermitted",
+    "Whistleblowers",
+    "Whistleblowing",
+    "Witnesseth"
+  ]
 }
