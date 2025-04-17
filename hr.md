@@ -1,17 +1,18 @@
 # HR and Personnel Security
 
-`2021.08.03`
+`2025.04.16`
 
 ClearHealth is committed to ensuring all workforce members actively address
-security and compliance in their roles at ClearHealth. We encourage self management
-and reward the right behaviors. This policy specifies acceptable use of end-user
-computing devices and technology. Additionally, training is imperative to
-assuring an understanding of current best practices, the different types and
-sensitivities of data, and the sanctions associated with non-compliance.
+security and compliance in their roles at ClearHealth. We encourage self
+management and reward the right behaviors. This policy specifies acceptable use
+of end-user computing devices and technology. Additionally, training is
+imperative to assuring an understanding of current best practices, the different
+types and sensitivities of data, and the sanctions associated with
+non-compliance.
 
 ## Policy Statements
 
-In addition to the roles and responsibilities stated earlier (rar.md),
+In addition to the [roles and responsibilities stated earlier](/rar.md),
 ClearHealth's policy requires all workforce members to comply with the
 Acceptable Use Policy for End-use Computing and HR Security Policy.
 
@@ -26,25 +27,25 @@ the information to be accessed, and the perceived risk.
 and conditions of their employment contract, and comply with acceptable use.
 
 (c) Employees will go through an onboarding process that familiarizes them with
-the environments, systems, security requirements, and procedures ClearHealth has in
-place. Employees will also have ongoing security awareness training that is
+the environments, systems, security requirements, and procedures ClearHealth has
+in place. Employees will also have ongoing security awareness training that is
 audited.
 
 (d) Employee offboarding will include reiterating any duties and
 responsibilities still valid after terminations, verifying that access to any of
-ClearHealth's systems has been removed, as well as, ensuring that all company owned
-assets are returned.
+ClearHealth's systems has been removed, as well as, ensuring that all company
+owned assets are returned.
 
-(e) ClearHealth and its employees will take reasonable measures to
-ensure no sensitive data is transmitted via digital communications, such as email
-or posted on social media outlets.
+(e) ClearHealth and its employees will take reasonable measures to ensure no
+sensitive data is transmitted via digital communications, such as email or
+posted on social media outlets.
 
-(f) ClearHealth will maintain a list of prohibited activities that will be part of
-onboarding procedures, and have training available if/when the list of those
+(f) ClearHealth will maintain a list of prohibited activities that will be part
+of onboarding procedures, and have training available if/when the list of those
 activities changes.
 
 (g) A fair disciplinary process will be utilized for employees suspected of
 committing breaches of security. Multiple factors will be considered when
 deciding the response such as whether or not this was a first offense, training,
-business contracts, etc. ClearHealth reserves the right to terminate employees in
-the case of serious cases of misconduct.
+business contracts, etc. ClearHealth reserves the right to terminate employees
+in the case of serious cases of misconduct.

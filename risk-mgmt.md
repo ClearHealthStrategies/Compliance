@@ -1,6 +1,6 @@
 # Risk Management
 
-`2021.08.03`
+`2025.04.16`
 
 This policy establishes the scope, objectives, and procedures of ClearHealth's
 information security risk management process. The risk management process is
@@ -26,8 +26,8 @@ the risk assessment process.
 (d) Maintain documentation of all risk assessment, risk management, and risk
 mitigation efforts for a minimum of seven years.
 
-(e) Security analysis must be performed for any open source software and/or third-party components and dependencies 
-included in ClearHealth's software products. Any software or service not meeting the requirements must be disabled, 
-have additional controls mitigating against vulnerabilities, or an alternative must be used.
-
-
+(e) Security analysis must be performed for any open source software and/or
+third-party components and dependencies included in ClearHealth's software
+products. Any software or service not meeting the requirements must be disabled,
+have additional controls mitigating against vulnerabilities, or an alternative
+must be used.

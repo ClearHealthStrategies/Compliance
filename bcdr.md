@@ -1,19 +1,18 @@
 # Business Continuity and Disaster Recovery
 
-`2021.01.12`
+`2025.04.16`
 
 The ClearHealth Contingency Plan establishes procedures to recover ClearHealth
 following a disruption resulting from a disaster. This Disaster Recovery Policy
 is maintained by the ClearHealth Security Officer and Privacy Officer.
 
-**HIPAA:** This ClearHealth Contingency Plan has been developed as
-required under the Office of Management and Budget (OMB) Circular A-130,
-Management of Federal Information Resources, Appendix III, November 2000, and
-the Health Insurance Portability and Accountability Act (HIPAA) Final Security
-Rule, Section §164.308(a)(7), which requires the establishment and
-implementation of procedures for responding to events that damage systems
-containing electronic protected health information.
-
+**HIPAA:** This ClearHealth Contingency Plan has been developed as required
+under the Office of Management and Budget (OMB) Circular A-130, Management of
+Federal Information Resources, Appendix III, November 2000, and the Health
+Insurance Portability and Accountability Act (HIPAA) Final Security Rule,
+Section §164.308(a)(7), which requires the establishment and implementation of
+procedures for responding to events that damage systems containing electronic
+protected health information.
 
 ## Policy Statements
 
@@ -29,3 +28,5 @@ process.
 
 (c) Security controls and requirements must be maintained during all BCDR
 activities.
+
+(d) A BIA is performed yearly and updated as needed when changes take place.
